@@ -1,42 +1,12 @@
 [
      {
            "Name":"Благодир А.О",
-           "HashCode":"55486f441d7c37b43c800f7f6d7f8787bd56033efdb6ae7f3450fa826c87f84e",
-           "EndDate":"Infinity"
-     },
-     {
-           "Name":"Благодир А.О",
            "HashCode":"7ccea7119dccfd92b89371e7a888ea845b7162011d316e6e80e38c393eada2a6",
-           "EndDate":"Infinity"
-     },
-     {
-           "Name":"Петренко Р.А",
-           "HashCode":"",
-           "EndDate":"Infinity"
-     },
-     {
-           "Name":"Горецкий",
-           "HashCode":"",
-           "EndDate":"Infinity"
-     },
-     {
-           "Name":"Самуся",
-           "HashCode":"",
            "EndDate":"Infinity"
      },
      {
            "Name":"Романюк",
            "HashCode":"c8416acc0038d939ab38053e0b8d03d37afaa104bfb0e0839480aecfe85af278",
-           "EndDate":"2026-12-12"
-     },
-     {
-           "Name":"User1",
-           "HashCode":"581575cda351b03f940fedd7d5729d5191447d559cd07fd4234b3af4d78606ad",
-           "EndDate":"2026-12-12"
-     },
-     {
-           "Name":"User2",
-           "HashCode":"c4d0d321a14f4c15568bf9e6d9710a4f3dba8a4391d228622d4a9008e7fc63ac",
            "EndDate":"2026-12-12"
      }
 ]
